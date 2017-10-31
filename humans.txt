@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nancy P npante@git.training @nancy
 
 # THANKS
 
